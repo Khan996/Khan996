@@ -55,7 +55,6 @@ I'm a **Machine Learning Engineer** with 3+ years of experience building ML/DL a
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/CLAUDE%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <h3 align="center">MLOps & Deployment</h3>
@@ -67,8 +66,6 @@ I'm a **Machine Learning Engineer** with 3+ years of experience building ML/DL a
 
 <h3 align="center">Web & Data Platforms</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
@@ -76,6 +73,7 @@ I'm a **Machine Learning Engineer** with 3+ years of experience building ML/DL a
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-181737?style=for-the-badge&logo=DVC&logoColor=white" />
 </p>
 ---
 
