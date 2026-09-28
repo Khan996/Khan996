@@ -24,7 +24,7 @@ I'm a **Machine Learning Engineer** with 3+ years of experience building ML/DL a
 ## 🎯 What I'm Up To
 
 - **Currently Building:** MLOps pipelines 
-- **Learning:** ADD (e.g. LLM evaluation, RAG, deep learning architectures)
+- **Learning:** LLM evaluation, RAG, deep learning architectures
 - **Looking to Collaborate:** Open-source ML and data projects
 - **Passionate About:** Turning messy data into reliable, deployed models
 - **Always Exploring:** Latest trends in ML, MLOps, and applied AI
@@ -64,9 +64,10 @@ I'm a **Machine Learning Engineer** with 3+ years of experience building ML/DL a
   <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<h3 align="center">Web & Data Platforms</h3>
+<h3 align="center">Data Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB%20Cloud-009688?style=for-the-badge&logo=mongodbcloud&logoColor=black" />
 </p>
 
 <h3 align="center">Version Control</h3>
